@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Nanjila</h1>
-<h3 align="center">A passionate programmer, God-fearing, hardworking, IoT and cybersecurity lover.</h3>
+<h3 align="center">A passionate programmer, God-fearing, hardworking, IoT and cybersecurity enthusiat.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoicdavi&label=Profile%20views&color=0e75b6&style=flat" alt="stoicdavi" /> </p>
 <p align="left"> <a href="https://twitter.com/abisaidavid1" target="blank"><img src="https://img.shields.io/twitter/follow/abisaidavid1?logo=twitter&style=for-the-badge" alt="abisaidavid1" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering & Science In Information technology**
 
 - 📫 How to reach me **nanjiladavid2@gmail.com** 0721823498/0708635045
 
-- ⚡ Fun fact **I am a football player**
+- ⚡ Fun fact about me **I am a football player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
