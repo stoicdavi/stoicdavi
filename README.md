@@ -23,14 +23,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
- <img style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+<img style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" onclick="window.open('https://flask.palletsprojects.com/', '_blank');" style="cursor: pointer;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" onclick="window.open('https://www.php.net/', '_blank');" style="cursor: pointer;"/>
-
-
-  
-
+<img src="https://www.docker.com/favicon.ico" alt="Docker" width="40" height="40" onclick="window.open('https://docs.docker.com/', '_blank');" style="cursor: pointer;"/>
+<img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" width="40" height="40" onclick="window.open('https://jupyter.org/documentation', '_blank');" style="cursor: pointer;"/>
   
 </a> </p>
 
