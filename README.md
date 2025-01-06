@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Nanjila</h1>
-<h3 align="center">A passionate programmer, God-fearing, hardworking, Data science with Python, IoT, and cybersecurity enthusiast.</h3>
+<h3 align="center">Software Engineer, God-fearing, AWS Cloud engineer, hardworking, IoT, and cybersecurity enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoicdavi&label=Profile%20views&color=0e75b6&style=flat" alt="stoicdavi" /> </p>
 <p align="left"> <a href="https://twitter.com/abisaidavid1" target="blank"><img src="https://img.shields.io/twitter/follow/abisaidavid1?logo=twitter&style=for-the-badge" alt="abisaidavid1" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abisaidavid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abisaidavid1" height="30" width="40" /></a>
+<a href="https://x.com/DavidNanji9396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abisaidavid1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/david-nanjila-523232277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david nanjila" height="30" width="40" /></a>
 <a href="https://fb.com/david abisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david abisai" height="30" width="40" /></a>
 <a href="https://instagram.com/abisai1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abisai1134" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-<img style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+<img bg-color='white' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://www.docker.com/favicon.ico" alt="Docker" width="40" height="40" onclick="window.open('https://docs.docker.com/', '_blank');" style="cursor: pointer;"/>
 <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" width="40" height="40" onclick="window.open('https://jupyter.org/documentation', '_blank');" style="cursor: pointer;"/>
