@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoicdavi&label=Profile%20views&color=0e75b6&style=flat" alt="stoicdavi" /> </p>
 <p align="left"> <a href="https://x.com/DavidNanji9396" target="blank"><img src="https://img.shields.io/twitter/follow/DavidNanji9396?logo=twitter&style=for-the-badge" alt="DavidNanjila" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering & Science In Information technology**
+- 🌱 learning **Software Engineering & Science In Information technology**
 
 - 📫 How to reach me **nanjiladavid2@gmail.com** 0721823498
 
